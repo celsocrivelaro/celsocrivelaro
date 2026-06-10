@@ -7,4 +7,3 @@ I'm Celso Crivelaro !
 
 - Living in 🇧🇷
 - 🔭 I’m currently working at SENAC SP and Quorum
-- 📫 How to reach me: :bird: @celsocrivelaro
