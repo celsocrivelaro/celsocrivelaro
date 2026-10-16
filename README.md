@@ -6,4 +6,4 @@ I'm Celso Crivelaro !
 [![Twitter badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](http://twitter.com/celsocrivelaro) 
 
 - Living in 🇧🇷
-- 🔭 I’m currently working at SENAC SP and Quorum
+- 🔭 I’m currently working as Engineering Manager at Quorum and as professor of Computer Science at Senac
